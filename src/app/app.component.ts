@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   nombre:string = 'Max';
-  apellido:string = 'Alva'
+  apellido:string = 'Alva';
 }
